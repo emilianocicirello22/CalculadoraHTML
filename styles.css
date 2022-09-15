@@ -30,19 +30,19 @@ body{
     button{
 
         font-size: 10px !important;
-        width: 60px !important;
-        height: 50px !important
+        width: 40px !important;
+        height: 30px !important
     }
     sub{
         font-size: 5px !important;
     }
     #resultado{
-        width: 120px !important;
+        width: 80px !important;
 
     }
     input{
         text-align:right !important;
-        font-size: 25px !important;
+        font-size: 10px !important;
     }
 
 }
